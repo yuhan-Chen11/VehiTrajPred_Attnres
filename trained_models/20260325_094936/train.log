@@ -1,0 +1,9 @@
+开始训练，总 Epoch: 30
+[Epoch 1] 新最佳验证集Loss: 0.104517，模型已保存。
+[Epoch 1] Train Loss: 0.887999 | Val Loss: 0.104517, ADE: 0.350415, FDE: 0.341774, MR: 0.000000 | Time: 111.44s
+[Epoch 2] 新最佳验证集Loss: 0.074764，模型已保存。
+[Epoch 2] Train Loss: 0.674468 | Val Loss: 0.074764, ADE: 0.294506, FDE: 0.291484, MR: 0.000000 | Time: 114.28s
+[Epoch 3] 新最佳验证集Loss: 0.054928，模型已保存。
+[Epoch 3] Train Loss: 0.596642 | Val Loss: 0.054928, ADE: 0.249892, FDE: 0.257114, MR: 0.000000 | Time: 111.30s
+[Epoch 4] 新最佳验证集Loss: 0.045020，模型已保存。
+[Epoch 4] Train Loss: 0.539718 | Val Loss: 0.045020, ADE: 0.223742, FDE: 0.234072, MR: 0.000000 | Time: 119.63s
